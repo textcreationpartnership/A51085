@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Modest answer to a printed pamphlet, entituled, A speech latley made by a noble peer of the realm</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51085</idno>
+            <idno type="STC">Wing M2355</idno>
+            <idno type="STC">ESTC R16431</idno>
+            <idno type="EEBO-CITATION">13033147</idno>
+            <idno type="OCLC">ocm 13033147</idno>
+            <idno type="VID">96786</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 745:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Modest answer to a printed pamphlet, entituled, A speech latley made by a noble peer of the realm</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>The "Speech" of the Earl of Shaftesbury on 23 Dec. 1680 is erroneously attributed to Frances Smith by Halkett &amp; Laing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683. --  Speech lately made by a noble peer of the realm.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:96786:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>A Modeſt ANSWER To a Printed Pamphlet, <hi>Entituled,</hi> A SPEECH Lately made by a NOBLE PEER OF THE REALM.</head>
+            <p>JUſt and Worthy (with all Commendations to be Recorded to Poſterity) are the endeavours of the Honourable Houſes of <hi>Parliament,</hi> and many other true Patriots, to deliver this, and ſucceeding Ages from that unſupportable Yoke of Sla<g ref="char:EOLhyphen"/>very, which that State-policy, call'd <hi>Popery</hi> impoſes on all its De<g ref="char:EOLhyphen"/>voto's,</p>
+            <p>I do not at all queſtion but this was the main Deſign of a Speech lately made by a <hi>Noble Peer</hi> of the Realm: Yet if I en<g ref="char:EOLhyphen"/>deavour to ſhew that the means which he adviſeth are ineffectu<g ref="char:EOLhyphen"/>al to obtain this end, I hope I ſhall not be accounted <hi>a Papiſt in Maſquerade,</hi> or guilty of <hi>Scandalum magnatum,</hi> ſince the <hi>Noble Peer</hi> hath been pleaſed to make this Challenge, <hi>"If any can anſwer "or oppoſe Reaſon to what I ſay, I beg they would do it:</hi> Wherefore, to gratifie this <hi>Noble Peer</hi>'s deſire, I (in all humility) offer to ſome of his Propoſitions a few modeſt Anſwers.</p>
+            <pb n="2" facs="tcp:96786:2"/>
+            <!-- PDF PAGE 11 -->
+            <p>Truly I think the <hi>Noble Peer</hi> is very unfortunate in the Pre<g ref="char:EOLhyphen"/>ſident of <hi>Hen.</hi> the 4th. (whom he is pleaſed to ſtile a Wiſe and Magnanimous Prince;) and yet in this Reign it was that <hi>Fire and Faggot</hi> were firſt uſed againſt <hi>Diſsenters in Religion:</hi> But however, the Chronicles we (of the meaneſt Rank) uſe, do not afford this Preſident. <hi>Baker</hi> indeed tells us, <hi>That he connived at the Impeachment of the Dukes of</hi> A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>marle <hi>and</hi> Exeter: The one was accuſed for ſpeaking againſt his Title to the Crown; the other for murthering his Father; And he adds the Reaſon, <hi>Becauſe he had profeſſed Enemies enough, and had no mind to make ſuch of them, who (at the least) pretended to be his Friends.</hi>
+            </p>
+            <p>But to grant what the <hi>Noble Peer</hi> deſireth:</p>
+            <p>Was there ever any Prince ſince the Conqueſt, that hath of<g ref="char:EOLhyphen"/>tner changed his Miniſters of State, than our preſent Gracious King? and this ſome men knew to their ſorrow, who when they were at the Helm, thought it very unreaſonable that every Month ſhould produce new Stateſmen; For by this method before any one could underſtand the <hi>Areana Imperii,</hi> and able to give Counſel he ſhall be ſent diſcontented into the Country; and the ill conſe<g ref="char:EOLhyphen"/>quences of diſcontented Stateſmen, who is ignorant of?</p>
+            <p>After our <hi>Noble Peer</hi> hath paſt a very witty and ſmart Refle<g ref="char:EOLhyphen"/>ction on the <hi>Ladies at Court,</hi> he paſſes to the next Paragraph, where we have theſe words, <hi>"We muſt neither have Popiſh Wife — nor any new Convert.</hi>
+            </p>
+            <p>What is meant by the firſt I cannot gueſs, unleſs with our New-State-Officers we are to have a new Model of Religion; If by <hi>new Converts</hi> be underſtood ſuch, who abominating the Superſti<g ref="char:EOLhyphen"/>tion of the Church of: <hi>Rome,</hi> are come over to our Church; I much wonder this <hi>Noble Peer,</hi> who is eſteemed a great Patron of the <hi>Proteſtant Religion,</hi> ſhould forget: what great Influence Reputation, Honour, and Rewards (in this Life) have upon the minds of men, and how hard a thing it is to perſwade a man to forſake theſe, though it was to embrace a true Religion, where by one party he is diſeſteemed, diſreſpected by his Prince; by the other party, be loaded (though fally) with the Ignominies of an Apoſtate, Schiſmatick, and what not? Is this the way to gain Converts to the true. <hi>Proteſtant Catholick Religion?</hi> That is, the Religion of the Church of <hi>England,</hi> as at preſent it is Eſta<g ref="char:EOLhyphen"/>bliſhed by Law.</p>
+            <pb n="3" facs="tcp:96786:2"/>
+            <!-- PDF PAGE 11 -->
+            <p>As to the Example of the Duke of <hi>Savoy, forbidding Embaſ<g ref="char:EOLhyphen"/>ſadors ſtaying but ſome few Weeks in his Country,</hi> it ſeems altoge<g ref="char:EOLhyphen"/>ther impracticable by a Trading Nation, as ours is; For if it cannot be ſuppoſed but our Embaſſadors ſhall be uſed as we uſe others, then I deſire to know how we ſhall underſtand what Deſigns of foreign Princes are? and how they ſtand in relation to our ſelves, which is the main end of maintaining Miniſters abroad.</p>
+            <p>And it's likewiſe worthy our Conſideration, how prejudicial this advice is to the Merchants; For if any injuſtice be done to them by Officers in Foreign Ports, who ſhall repreſent their Caſe to the Prince or his Council? If they themſelves; How much Time, how much Money muſt be ſpent, before they get any op<g ref="char:EOLhyphen"/>portunity to be heard? And at laſt, 'tis more than probable, they ſhall be forced to ſit down by the wrong; Whereas a publick Miniſter has more Opportunities, more Friends, and can ſpeak more boldly, and the Court ſhall be more fearful of offending him, than of doing Juſtice to any private ſingle Perſon.</p>
+            <p>How the Premiſes of the next paragraph but one infer the concluſion that is drawn from them, I do not underſtand, and therefore I ſhall paſs on to the next, which I ſhall conſider, to<g ref="char:EOLhyphen"/>gether with the Five after it.</p>
+            <p>In theſe two, the King is Accuſed of Neglect of his own Sacred Perſon, and of Careleſneſs or Slowneſs, (which you will,) of Searching to the bottom of the PLOT? What would this <hi>Noble Peer</hi> have His Majeſty do? Would he have him be kept up in his Chamber? There he is not Safe, for his own <hi>Family</hi> will have acceſs to him; and they we are told muſt be turned off; be<g ref="char:EOLhyphen"/>cauſe not fit to be truſted? Muſt he be Armed <hi>Capapee?</hi> But who muſt be truſted to put them on? Really I cannot imagine what His Majeſty can do more, either as to the one, or the other, than he hath already Graciouſly done.</p>
+            <p>Hath he not iſſued out His Royal Proclamations, for the appre<g ref="char:EOLhyphen"/>hending of all that were accuſed, as parties in the <hi>Horrid and Damnable Popiſh Plot?</hi> Has he not cauſed ſuch as could be apprehended to be legally Tryed? Has he Reprieved any one that was Condemned? Has he refuſed any thing for the extir<g ref="char:EOLhyphen"/>pating of <hi>Popery,</hi> to which he is adviſed by his <hi>Parliament?</hi> Has he not taken into his Protection, Granted Pardons, for all manner of Miſdemeanours; and given large Rewards to all thoſe worthy Perſons, who by their Diſcoveries, have (as much as in them lay,) delivered us from the Danger of <hi>Popiſh Cruelty;</hi> So that we may truly ſay, <hi>No Story affords a Parallel of him.</hi>
+            </p>
+            <pb n="4" facs="tcp:96786:3"/>
+            <!-- PDF PAGE 12 -->
+            <p>Next we are told the Tranſactions between him and his Bro<g ref="char:EOLhyphen"/>ther, are Incomprehenſible, and ſo t'will be but loſt labour and folly, to ſearch into them; quickly after we have a ſmart obſer<g ref="char:EOLhyphen"/>vation, <hi>viz All Preferments were beſtowed by the Duke, Not a Biſhop made without him.</hi>
+            </p>
+            <p>But ſure they will allow two or three to be made without his conſent; But theſe things I ſhall paſs by, being wholly Ig<g ref="char:EOLhyphen"/>norant of any ones promotion, as well as of the cauſes of Proro<g ref="char:EOLhyphen"/>gations, Diſſolutions, or Aſſembling of Parliaments.</p>
+            <p>Now let us conſider, whether or no the Diſinabling the <hi>Duke of York</hi> from Inheriting the <hi>Crown of England and Ireland,</hi> be a ſufficient Remedy to Unite theſe Diſtracted Nations.</p>
+            <p>Theſe Conſiderations move many to conclude in the Nega<g ref="char:EOLhyphen"/>tive, <hi>viz.</hi> When our Parliament have uſed their beſt endea<g ref="char:EOLhyphen"/>vours, and the King Signed the Bill; yet in all provability the Duke, if he out-lives the King, will be Crowned King of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> And if ſo, can we Imagine an Heroick and Wa<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ke Prince, Strongly Fortified with Alliances abroad, And if we believe this Speech, one that has the <hi>Garriſons, the Arms, the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmu<g ref="char:EOLhyphen"/>nitions, the Seas, and Souldiers all in his Friends hands</hi> can we believe, I ſay, that ſuch a Prince as this will be a quiet Neigh<g ref="char:EOLhyphen"/>bour, to that Nation which he is made to believe, have depri<g ref="char:EOLhyphen"/>ved of his Birth-right.</p>
+            <p>The <hi>Noble Peer</hi> having done with the Duke, takes the Money buſineſs into conſideration; and here we are told, <hi>that make what Laws you will, they will be but blank Paper before</hi> Eaſter, <hi>if the Court have Money to ſet up for</hi> Popery <hi>and</hi> Arbi<g ref="char:EOLhyphen"/>trary Government; So that in ſhort 'tis the beſt way to give none.</p>
+            <p>But is this the way to ſatisfie the King, that if he truſts the People, he ſhall have any thing; Yes if we are ſatisfied with the terms on which we part with our Money; How can this be? When you are aſſured by the <hi>Noble Peer,</hi> that make what terms you will, they will be void before <hi>Easber.</hi>
+            </p>
+            <p>There is a paſſage in the next Paragraph, which I dare not Tranſcribe, and therefore ſhall conclude by proteſting, that I mean well; and that if it be not Reaſon, which I here offer to the <hi>Noble Peers</hi> Speech, I can at the worſt be accounted but an Impertinent Fool.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
